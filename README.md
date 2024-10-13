@@ -21,8 +21,7 @@ We would love to see you contribute to this awesome community!
   
 2. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/your-username/HactoberFestContribution2024.git
-   cd HactoberFestContribution2024
+   git clone url
    ```
 3. **Create a new branch**:
    ```bash
